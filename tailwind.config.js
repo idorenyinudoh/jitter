@@ -27,6 +27,13 @@ export default {
         'secondary': '#6E6E73',
       }
     },
+    screens: {
+      'sm': '440px',
+      'md': '768px',
+      'lg': '1025px',
+      'xl': '1441px',
+      '2xl': '1729px',
+    }
   },
   plugins: [],
 }

@@ -67,6 +67,6 @@
 
 @layer base {
   html {
-    @apply font-inter text-primary;
+    @apply font-inter text-primary -tracking-[0.352px];
   }
 }
