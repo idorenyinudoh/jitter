@@ -1,5 +1,5 @@
 <template>
   <div>
-    <p>Jitter</p>
+    <p class="text-7xl">Jitter</p>
   </div>
 </template>
