@@ -19,6 +19,12 @@ export default {
       fontFamily: {
         'inter': ['Inter', 'sans-serif'],
         'twk-lausanne': ['TWK Lausanne', 'sans-serif']
+      },
+      colors: {
+        'background': '#FFF',
+        'primary': '#19171C',
+        'primary-alt': '#FBA6EC',
+        'secondary': '#6E6E73',
       }
     },
   },
