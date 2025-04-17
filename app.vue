@@ -1,8 +1,8 @@
 <template>
   <div>
     <TheNav />
-    <div class="pt-[140px] lg:pt-[190px] xl:pt-[210px]">
-      <p class="text-7xl">Jitter</p>
+    <div class="pt-[154.2px] lg:pt-[200.8px] xl:pt-[212.38px] 2xl:pt-[210px]">
+      <TheHero />
     </div>
   </div>
 </template>
