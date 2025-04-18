@@ -47,7 +47,7 @@ onMounted(() => {
           <div class="absolute -top-[3px] -right-[3px] w-2 h-2 border border-[#7A40ED] bg-white" />
           <div class="absolute -bottom-[3px] -left-[3px] w-2 h-2 border border-[#7A40ED] bg-white" />
           <div class="absolute -bottom-[3px] -right-[3px] w-2 h-2 border border-[#7A40ED] bg-white" />
-          <video ref="first-reel" class="border border-[#7A40ED] w-full h-full object-cover" src="~/assets/videos/artboard-1.mp4" autoplay loop playsinline muted />
+          <video ref="first-reel" class="border border-[#7A40ED] w-full h-full object-cover" src="~/assets/videos/artboard-1.mp4" autoplay loop playsinline muted preload="auto" />
         </div>
       </div>
     </div>
