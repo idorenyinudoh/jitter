@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed top-0 left-0 right-0 px-2.5 lg:px-[30px] xl:px-[40px] w-[calc(100vw-20px)] sm:w-[420px] lg:w-[920px] xl:w-[1260px] 2xl:w-[1400px] h-[100px] lg:h-[129px] mx-auto flex max-lg:items-center">
+  <div class="fixed z-50 top-0 left-0 right-0 px-2.5 lg:px-[30px] xl:px-[40px] w-[calc(100vw-20px)] sm:w-[420px] lg:w-[920px] xl:w-[1260px] 2xl:w-[1400px] h-[100px] lg:h-[129px] mx-auto flex max-lg:items-center">
     <nav class="lg:mt-auto w-full h-[52px] lg:h-[90px] flex justify-between items-center">
       <div class="h-full flex gap-x-10 lg:gap-x-6 xl:gap-x-10 items-center">
         <NuxtLink to="/" class="lg:mb-2 max-lg:ml-2.5">
